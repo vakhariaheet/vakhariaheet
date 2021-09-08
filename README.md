@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Heet Vakharia</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-![Profile Click](https://gpvc.arturio.dev/vakhariaheet)
+![](https://komarev.com/ghpvc/?username=vakhariaheet&label=PROFILE+VIEWS&style=flat-square&color=3944bc)
 
   
 
@@ -19,8 +19,8 @@
 
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vakhariaheet?cardType=level-alternate&theme=nightowl&showIcons=false)](https://git.io/awesome-stats-card)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakhariaheet&show_icons=true&locale=en&layout=compact&theme=radical" alt="vakhariaheet" />
+[![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=vakhariaheet&theme=tokyonight&show_icons=true)](https://git.io/awesome-stats-card)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakhariaheet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vakhariaheet" />
 
 
 
