@@ -24,10 +24,10 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=verifierjs&theme=radical)](https://github.com/vakhariaheet/verifierjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=codepen-clone&theme=radical)](https://github.com/vakhariaheet/codepen-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=password-generater&theme=radical)](https://github.com/vakhariaheet/password-generater)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=NotAnOrdinaryCovidTracker&theme=radical)](https://github.com/vakhariaheet/NotAnOrdinaryCovidTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=verifierjs&theme=tokyonight)](https://github.com/vakhariaheet/verifierjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=codepen-clone&theme=tokyonight)](https://github.com/vakhariaheet/codepen-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=password-generater&theme=tokyonight)](https://github.com/vakhariaheet/password-generater)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=NotAnOrdinaryCovidTracker&theme=tokyonight)](https://github.com/vakhariaheet/NotAnOrdinaryCovidTracker)
 
 
 <!--
