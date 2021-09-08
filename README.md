@@ -19,8 +19,11 @@
 
 
 
-[![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=vakhariaheet&theme=tokyonight&show_icons=true)](https://git.io/awesome-stats-card)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakhariaheet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vakhariaheet" />
+<p>
+  <a href="https://git.io/awesome-stats-card" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=vakhariaheet&theme=tokyonight&show_icons=true" alt="My Awesome Stats"/> </a>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakhariaheet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vakhariaheet" />
+</p>
+
 <p>
 <a href="https://github.com/vakhariaheet/verifierjs" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=verifierjs&theme=tokyonight" alt="Readme Card"/> </a>
   <a href="https://github.com/vakhariaheet/codepen-clone" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=codepen-clone&theme=tokyonight" alt="Readme Card" /> </a>
