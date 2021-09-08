@@ -21,12 +21,13 @@
 
 [![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=vakhariaheet&theme=tokyonight&show_icons=true)](https://git.io/awesome-stats-card)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakhariaheet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vakhariaheet" />
-<br/>
-<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=verifierjs&theme=tokyonight)](https://github.com/vakhariaheet/verifierjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=codepen-clone&theme=tokyonight)](https://github.com/vakhariaheet/codepen-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=password-generater&theme=tokyonight)](https://github.com/vakhariaheet/password-generater)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=NotAnOrdinaryCovidTracker&theme=tokyonight)](https://github.com/vakhariaheet/NotAnOrdinaryCovidTracker)
+<p>
+<a href="https://github.com/vakhariaheet/verifierjs" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=verifierjs&theme=tokyonight" alt="Readme Card"/> </a>
+  <a href="https://github.com/vakhariaheet/codepen-clone" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=codepen-clone&theme=tokyonight" alt="Readme Card" /> </a>
+  <a href="https://github.com/vakhariaheet/password-generater" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=password-generater&theme=tokyonight" alt="Readme Card"/> </a>
+  <a href="https://github.com/vakhariaheet/NotAnOrdinaryCovidTracker" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vakhariaheet&repo=NotAnOrdinaryCovidTracker&theme=tokyonight" alt="Readme Card" /> </a>
+</p>
+
 
 
 <!--
